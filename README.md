@@ -1,8 +1,7 @@
 # AP-Chemistry-Titration-Programs
 ## Overview
-These are programs I created during my sophmore year of Highschool when I took AP chemistry. The programs are able to solve a varity of tritration problems such 
-as (Strong acid--Strong base, Strong acid--Weak base, Weak acid--Strong base and Strong base--Strong acid). 
-The programs use equations I derived during my chemistry class
+* These are programs I created during my sophmore year of Highschool when I took AP chemistry. The programs are able to solve and model a varity of acid-base tritration reactions such as (Strong acid--Strong base, Strong acid--Weak base, Weak acid--Strong base and Strong base--Strong acid). 
+ * The equations I derived to model these reactions will be posted soon on a seperate file
 
 
 ## Repository information
